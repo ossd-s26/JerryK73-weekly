@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+My name is Gerald Kim and I am a senior studying computer science. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+In my free time I like to play guitar and read books.
 
