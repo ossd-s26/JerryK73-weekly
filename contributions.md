@@ -22,6 +22,6 @@ Replace the first row with your own contribution.
 
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-| Feb 3   | link to my contribution    | course website    |   I fixed a broken link.    |
-|     |     |     |      |
+| Mar 3   | (https://en.wikipedia.org/w/index.php?title=Draft:Megumi_Ishitani&oldid=1341421277)    |  Wikipedia    |   Drafted a biography page for Megumi Ishitani (animation director)    |
+| Mar 25    |  (https://www.openstreetmap.org/user/JerryK7/history#map=19/40.809890/-73.500708)   |  OpenStreetMap   |  Updated new restaurant openings in my neighborhood    |
 |     |     |     |      |
