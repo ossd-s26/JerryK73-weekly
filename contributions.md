@@ -29,4 +29,4 @@ Replace the first row with your own contribution.
 | Mar 3   | [link to my contribution](https://en.wikipedia.org/w/index.php?title=Draft:Megumi_Ishitani&oldid=1341421277)    |  Wikipedia    |   Drafted a biography page for Megumi Ishitani (animation director)    |
 | Mar 25    | [link to my contribution](https://www.openstreetmap.org/user/JerryK7/history#map=19/40.809890/-73.500708)   |  OpenStreetMap   |  Updated new restaurant openings in my neighborhood    |
 | Apr 15    | [link to my contribution](https://www.openstreetmap.org/changeset/181389696#map=18/40.785816/-73.501850)     |  OpenStreetMap   |  Added and updated shops/restaurants in shopping area    |
-| May 6 | [link to my contribution]() [link to my contribution]() | Osu | Bug fix that enables key press to toggle the options menu |
+| May 6 | [link to my contribution](https://github.com/ppy/osu/pull/37648) [link to my contribution](https://github.com/ppy/osu-framework/pull/6743) | Osu | Bug fix that enables key press to toggle the options menu |
